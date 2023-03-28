@@ -1,0 +1,1 @@
+It's downloaded from https://huggingface.co/nreimers/MiniLM-L6-H384-uncased.
